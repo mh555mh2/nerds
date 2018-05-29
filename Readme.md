@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Мария Хомякова](https://up.htmlacademy.ru/htmlcss/21/user/231573).
-* Наставник: `Наталья Лоскутова`.(https://htmlacademy.ru/profile/id33515)
+* Наставник: [Наталья Лоскутова](https://htmlacademy.ru/profile/id33515).
 
 ---
 
